@@ -1,0 +1,26 @@
+nav{
+   background-color: darkgray;
+   padding-top: 2px;
+   padding-left: 10px;
+
+}
+nav a{
+    text-decoration: none;
+    color: black;
+
+}
+.img{
+    width: 100%;
+}
+.image{
+    height: 100px;
+    width: 100px;
+}
+.box{
+    background-color: blue;
+    width:200px;
+    height:200px;
+    color:white;
+    text-align: center;
+
+}
